@@ -41,7 +41,7 @@ This project is under the MIT License.
 
 ## Contributions
 
-contributions are welcome.
+contributions are welcome. I did recieve help using the slack channel from one of my peers Josh, I also used the website stackoverflow.com for some troubleshooting.
 
 ## Tests
 
