@@ -1,23 +1,25 @@
-# Sample.md
+# ReadMe_Generator
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Description
-  This program is to help users generate a quality README.ms from the command line based on the users input.
+  This program is to help users generate a quality README.ms from the command line based on the users input. The README.md will include sections such as Description, Installation, Usage, License, Contributing, Test, and Questions.
   
   ## Table of Contents:
   - [Installation](#install)
   - [Usage](#usage)
   - [Contribution](#contrubition)
+  - [License](#license)
   - [Test](#test)
+  - [Questions](#questions)
   
   ## Installation
-  To install us this application locally, clone the repository, navigate to the directory, and install the dependencies
+  To install and use this application locally, please follow the follow these steps. Clone the repository, navigate to the project directory, and install the dependencies.
   
   ## Usage
-  To use the Sample.mn generator, run the following command `node index.js`
+  To use the ReadMe_Generator, run the following command: `node index.js`
   
   ## Contributing
-  contributions are always welcome.
+  Contributions are always welcome.
   
   
   ## License
@@ -29,10 +31,10 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Tests
-  Test the code by running the generator and verifing the SAMPLE.md generated correctly based on different inputs.
+  Test the code by running the generator and verifing the SAMPLE.md generated correctly based on different inputs. 
   
   ## Questions
   For any Questions, you can reach me at:
-  - GitHub: [allenarnoldy] (https://github.com/allenarnoldy)
+  - GitHub: https://github.com/allenarnoldy
   - Email: allenarnoldy@gmail.com
   
