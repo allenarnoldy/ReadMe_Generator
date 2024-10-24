@@ -32,6 +32,8 @@ To install and use this application locally, please follow these steps:
 To use the README Generator, run the following command:
 
     `node index.js`
+You can also check out a video of the generator being used here:
+https://drive.google.com/file/d/1lU1Qjd2fGjqm7GlRMPSwkyrrkSNA8Woi/view?pli=1
 
 ## License
 
